@@ -1,0 +1,14 @@
+{
+  "name": "presentation",
+  "version": "14.12.0",
+  "description": "presentation",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "author": "samandar",
+  "license": "ISC",
+  "dependencies": {
+    "reveal.js": "^4.1.0"
+  }
+}
